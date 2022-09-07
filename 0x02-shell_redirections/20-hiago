@@ -1,2 +1,2 @@
 #!/bin/bash
-trace -d Cc
+tr -d Cc
