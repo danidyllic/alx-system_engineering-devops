@@ -1,2 +1,2 @@
 #!/bin/bash
-$NUM= "'%.2\n'num"
+printf '%.2f\n' $NUM
